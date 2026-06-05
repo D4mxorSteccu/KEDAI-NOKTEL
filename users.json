@@ -128,5 +128,18 @@
     "totalSpent": 0,
     "joinedAt": 1780676272926,
     "startCount": 2
+  },
+  {
+    "id": "7635695005",
+    "username": "Izzerz47",
+    "name": "Izzerz",
+    "saldo": 0,
+    "riwayat": 0,
+    "totalBeli": 0,
+    "totalDeposit": 0,
+    "totalDepositAmount": 0,
+    "totalSpent": 0,
+    "joinedAt": 1780676747200,
+    "startCount": 2
   }
 ]
