@@ -37,5 +37,18 @@
     "totalSpent": 0,
     "joinedAt": 1780669505849,
     "startCount": 1
+  },
+  {
+    "id": "8477166862",
+    "username": "RixxzzStore",
+    "name": "𝙍𝙄𝙓𝙓𝙕𝙕 𝙎𝙏𝙊𝙍𝙀 #𝙎𝙏𝙍𝙈𝙔_15",
+    "saldo": 0,
+    "riwayat": 0,
+    "totalBeli": 0,
+    "totalDeposit": 0,
+    "totalDepositAmount": 0,
+    "totalSpent": 0,
+    "joinedAt": 1780669526545,
+    "startCount": 2
   }
 ]
