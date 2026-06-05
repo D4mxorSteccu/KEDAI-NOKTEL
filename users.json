@@ -141,5 +141,18 @@
     "totalSpent": 0,
     "joinedAt": 1780676747200,
     "startCount": 3
+  },
+  {
+    "id": "1596729099",
+    "username": "Kalreseller",
+    "name": "NISH",
+    "saldo": 0,
+    "riwayat": 0,
+    "totalBeli": 0,
+    "totalDeposit": 0,
+    "totalDepositAmount": 0,
+    "totalSpent": 0,
+    "joinedAt": 1780699840776,
+    "startCount": 2
   }
 ]
