@@ -1,1 +1,0 @@
-# KEDAI-NOKTEL
