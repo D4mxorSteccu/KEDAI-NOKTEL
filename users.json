@@ -76,5 +76,31 @@
     "totalSpent": 0,
     "joinedAt": 1780671423989,
     "startCount": 2
+  },
+  {
+    "id": "5038497913",
+    "username": "syfhliaa",
+    "name": "𝗅𝗂𝖺𝖺",
+    "saldo": 0,
+    "riwayat": 0,
+    "totalBeli": 0,
+    "totalDeposit": 0,
+    "totalDepositAmount": 0,
+    "totalSpent": 0,
+    "joinedAt": 1780674162477,
+    "startCount": 2
+  },
+  {
+    "id": "8387602613",
+    "username": "NoUsername",
+    "name": "𝐂𝐋𝐎𝐒𝐄 ❌⛔🟥",
+    "saldo": 0,
+    "riwayat": 0,
+    "totalBeli": 0,
+    "totalDeposit": 0,
+    "totalDepositAmount": 0,
+    "totalSpent": 0,
+    "joinedAt": 1780674352178,
+    "startCount": 3
   }
 ]
