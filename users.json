@@ -63,5 +63,18 @@
     "totalSpent": 0,
     "joinedAt": 1780669535962,
     "startCount": 2
+  },
+  {
+    "id": "8656518110",
+    "username": "maryeen23",
+    "name": ".",
+    "saldo": 0,
+    "riwayat": 0,
+    "totalBeli": 0,
+    "totalDeposit": 0,
+    "totalDepositAmount": 0,
+    "totalSpent": 0,
+    "joinedAt": 1780671423989,
+    "startCount": 2
   }
 ]
