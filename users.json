@@ -232,5 +232,18 @@
     "totalSpent": 0,
     "joinedAt": 1780744404446,
     "startCount": 2
+  },
+  {
+    "id": "8669823945",
+    "username": "izxmlbb",
+    "name": "izx",
+    "saldo": 0,
+    "riwayat": 0,
+    "totalBeli": 0,
+    "totalDeposit": 0,
+    "totalDepositAmount": 0,
+    "totalSpent": 0,
+    "joinedAt": 1780748994981,
+    "startCount": 1
   }
 ]
