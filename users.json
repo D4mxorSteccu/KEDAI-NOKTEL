@@ -4,13 +4,13 @@
     "username": "Official_Support_Binance404",
     "name": "SUPPORT BINANCE",
     "saldo": 0,
-    "riwayat": 1,
-    "totalBeli": 1,
-    "totalDeposit": 1,
-    "totalDepositAmount": 5,
-    "totalSpent": 5,
+    "riwayat": 0,
+    "totalBeli": 0,
+    "totalDeposit": 0,
+    "totalDepositAmount": 0,
+    "totalSpent": 0,
     "joinedAt": 1780666906638,
-    "startCount": 71
+    "startCount": 64
   },
   {
     "id": "8751121324",
@@ -114,7 +114,7 @@
     "totalDepositAmount": 0,
     "totalSpent": 0,
     "joinedAt": 1780674429159,
-    "startCount": 4
+    "startCount": 5
   },
   {
     "id": "8454034658",
@@ -179,7 +179,7 @@
     "totalDepositAmount": 0,
     "totalSpent": 0,
     "joinedAt": 1780717282057,
-    "startCount": 1
+    "startCount": 2
   },
   {
     "id": "7922481201",
@@ -191,7 +191,7 @@
     "totalDeposit": 0,
     "totalDepositAmount": 0,
     "totalSpent": 0,
-    "joinedAt": 1780721399660,
+    "joinedAt": 1780721399654,
     "startCount": 4
   }
 ]
