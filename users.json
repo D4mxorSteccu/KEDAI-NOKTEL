@@ -180,5 +180,18 @@
     "totalSpent": 0,
     "joinedAt": 1780717282057,
     "startCount": 2
+  },
+  {
+    "id": "7922481201",
+    "username": "RitxzEncem",
+    "name": "HarithEncem",
+    "saldo": 0,
+    "riwayat": 0,
+    "totalBeli": 0,
+    "totalDeposit": 0,
+    "totalDepositAmount": 0,
+    "totalSpent": 0,
+    "joinedAt": 1780721399654,
+    "startCount": 1
   }
 ]
