@@ -232,5 +232,18 @@
     "totalSpent": 0,
     "joinedAt": 1780730123330,
     "startCount": 2
+  },
+  {
+    "id": "8845960372",
+    "username": "D4mxorxNoktel_bot",
+    "name": "𝖪𝖤𝖣𝖠𝖨 𝖭𝖮𝖪𝖳𝖤𝖫 [ 𝟤𝟦 𝖩𝖠𝖬 ]",
+    "saldo": 0,
+    "riwayat": 0,
+    "totalBeli": 0,
+    "totalDeposit": 0,
+    "totalDepositAmount": 0,
+    "totalSpent": 0,
+    "joinedAt": 1780731066876,
+    "startCount": 1
   }
 ]
