@@ -219,5 +219,18 @@
     "totalSpent": 0,
     "joinedAt": 1780744052921,
     "startCount": 1
+  },
+  {
+    "id": "8328146666",
+    "username": "NoUsername",
+    "name": "MIDMAN SHAPET",
+    "saldo": 0,
+    "riwayat": 0,
+    "totalBeli": 0,
+    "totalDeposit": 0,
+    "totalDepositAmount": 0,
+    "totalSpent": 0,
+    "joinedAt": 1780744404446,
+    "startCount": 2
   }
 ]
