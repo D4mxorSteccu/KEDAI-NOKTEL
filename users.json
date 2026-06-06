@@ -193,5 +193,18 @@
     "totalSpent": 0,
     "joinedAt": 1780721399660,
     "startCount": 25
+  },
+  {
+    "id": "1728439527",
+    "username": "NoUsername",
+    "name": "Akif",
+    "saldo": 0,
+    "riwayat": 0,
+    "totalBeli": 0,
+    "totalDeposit": 0,
+    "totalDepositAmount": 0,
+    "totalSpent": 0,
+    "joinedAt": 1780741851425,
+    "startCount": 2
   }
 ]
