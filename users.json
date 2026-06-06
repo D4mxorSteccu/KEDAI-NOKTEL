@@ -10,7 +10,7 @@
     "totalDepositAmount": 5,
     "totalSpent": 5,
     "joinedAt": 1780666906638,
-    "startCount": 132
+    "startCount": 119
   },
   {
     "id": "8751121324",
@@ -62,7 +62,7 @@
     "totalDepositAmount": 0,
     "totalSpent": 0,
     "joinedAt": 1780669535962,
-    "startCount": 42
+    "startCount": 41
   },
   {
     "id": "8656518110",
@@ -127,7 +127,7 @@
     "totalDepositAmount": 0,
     "totalSpent": 0,
     "joinedAt": 1780676272926,
-    "startCount": 2
+    "startCount": 3
   },
   {
     "id": "7635695005",
@@ -195,19 +195,6 @@
     "startCount": 25
   },
   {
-    "id": "1728439527",
-    "username": "NoUsername",
-    "name": "Akif",
-    "saldo": 0,
-    "riwayat": 0,
-    "totalBeli": 0,
-    "totalDeposit": 0,
-    "totalDepositAmount": 0,
-    "totalSpent": 0,
-    "joinedAt": 1780741851425,
-    "startCount": 2
-  },
-  {
     "id": "8465749326",
     "username": "marmy5",
     "name": "màrrマー",
@@ -217,33 +204,20 @@
     "totalDeposit": 0,
     "totalDepositAmount": 0,
     "totalSpent": 0,
-    "joinedAt": 1780744052921,
+    "joinedAt": 1780744052935,
     "startCount": 1
   },
   {
-    "id": "8328146666",
-    "username": "NoUsername",
-    "name": "MIDMAN SHAPET",
+    "id": "6746319597",
+    "username": "acapzx123",
+    "name": ".",
     "saldo": 0,
     "riwayat": 0,
     "totalBeli": 0,
     "totalDeposit": 0,
     "totalDepositAmount": 0,
     "totalSpent": 0,
-    "joinedAt": 1780744404446,
-    "startCount": 2
-  },
-  {
-    "id": "8669823945",
-    "username": "izxmlbb",
-    "name": "izx",
-    "saldo": 0,
-    "riwayat": 0,
-    "totalBeli": 0,
-    "totalDeposit": 0,
-    "totalDepositAmount": 0,
-    "totalSpent": 0,
-    "joinedAt": 1780748994981,
-    "startCount": 3
+    "joinedAt": 1780762004364,
+    "startCount": 1
   }
 ]
