@@ -154,5 +154,18 @@
     "totalSpent": 0,
     "joinedAt": 1780699840776,
     "startCount": 2
+  },
+  {
+    "id": "1303593264",
+    "username": "Zadmxz",
+    "name": "A",
+    "saldo": 0,
+    "riwayat": 0,
+    "totalBeli": 0,
+    "totalDeposit": 0,
+    "totalDepositAmount": 0,
+    "totalSpent": 0,
+    "joinedAt": 1780707718573,
+    "startCount": 1
   }
 ]
