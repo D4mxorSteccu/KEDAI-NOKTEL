@@ -219,5 +219,18 @@
     "totalSpent": 0,
     "joinedAt": 1780762004364,
     "startCount": 2
+  },
+  {
+    "id": "5913413565",
+    "username": "KimzNewEra",
+    "name": "𝙆𝙄𝙈𝙕 𝙎𝙏𝙊𝙍𝙀 #𝘽𝙁𝙓_03",
+    "saldo": 0,
+    "riwayat": 0,
+    "totalBeli": 0,
+    "totalDeposit": 0,
+    "totalDepositAmount": 0,
+    "totalSpent": 0,
+    "joinedAt": 1780807048424,
+    "startCount": 1
   }
 ]
