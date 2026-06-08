@@ -378,5 +378,18 @@
     "totalSpent": 0,
     "joinedAt": 1780905150294,
     "startCount": 1
+  },
+  {
+    "id": "7621131678",
+    "username": "Madanizzz",
+    "name": "MADANIZZ🦠",
+    "saldo": 0,
+    "riwayat": 0,
+    "totalBeli": 0,
+    "totalDeposit": 0,
+    "totalDepositAmount": 0,
+    "totalSpent": 0,
+    "joinedAt": 1780921562186,
+    "startCount": 2
   }
 ]
