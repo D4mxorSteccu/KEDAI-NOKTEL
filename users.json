@@ -391,5 +391,18 @@
     "totalSpent": 0,
     "joinedAt": 1780921562186,
     "startCount": 4
+  },
+  {
+    "id": "8682422327",
+    "username": "pittamhitam",
+    "name": "hafiz",
+    "saldo": 0,
+    "riwayat": 0,
+    "totalBeli": 0,
+    "totalDeposit": 0,
+    "totalDepositAmount": 0,
+    "totalSpent": 0,
+    "joinedAt": 1780931630574,
+    "startCount": 1
   }
 ]
