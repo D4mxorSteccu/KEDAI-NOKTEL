@@ -10,7 +10,7 @@
     "totalDepositAmount": 5,
     "totalSpent": 5,
     "joinedAt": 1780666906638,
-    "startCount": 211
+    "startCount": 213
   },
   {
     "id": "8751121324",
@@ -352,5 +352,18 @@
     "totalDepositAmount": 0,
     "startCount": 5,
     "joinedAt": 1780885993768
+  },
+  {
+    "id": "1170093899",
+    "username": "Fredz02",
+    "name": "Fred",
+    "saldo": 0,
+    "riwayat": 0,
+    "totalBeli": 0,
+    "totalDeposit": 0,
+    "totalDepositAmount": 0,
+    "totalSpent": 0,
+    "joinedAt": 1780894649737,
+    "startCount": 1
   }
 ]
