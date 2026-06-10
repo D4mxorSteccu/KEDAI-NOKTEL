@@ -443,5 +443,18 @@
     "totalSpent": 0,
     "joinedAt": 1781083330097,
     "startCount": 1
+  },
+  {
+    "id": "8291592122",
+    "username": "angelsukaberak",
+    "name": "angeli",
+    "saldo": 0,
+    "riwayat": 0,
+    "totalBeli": 0,
+    "totalDeposit": 0,
+    "totalDepositAmount": 0,
+    "totalSpent": 0,
+    "joinedAt": 1781098773269,
+    "startCount": 1
   }
 ]
