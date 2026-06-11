@@ -482,5 +482,18 @@
     "totalSpent": 0,
     "joinedAt": 1781186237308,
     "startCount": 2
+  },
+  {
+    "id": "8554997649",
+    "username": "qiereseller",
+    "name": "qie",
+    "saldo": 0,
+    "riwayat": 0,
+    "totalBeli": 0,
+    "totalDeposit": 0,
+    "totalDepositAmount": 0,
+    "totalSpent": 0,
+    "joinedAt": 1781186869802,
+    "startCount": 1
   }
 ]
