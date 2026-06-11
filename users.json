@@ -469,5 +469,18 @@
     "totalSpent": 0,
     "joinedAt": 1781098805981,
     "startCount": 1
+  },
+  {
+    "id": "822721362",
+    "username": "lupyy2012",
+    "name": "lutfi",
+    "saldo": 0,
+    "riwayat": 0,
+    "totalBeli": 0,
+    "totalDeposit": 0,
+    "totalDepositAmount": 0,
+    "totalSpent": 0,
+    "joinedAt": 1781186237308,
+    "startCount": 1
   }
 ]
